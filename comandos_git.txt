@@ -1,0 +1,15 @@
+git init : crea un nuevo repositorio
+
+git add: prepara los cambios para ser almacenados en el repositorio
+
+git status: muestra el estado del repositorio
+
+git commit -m: confirma los cambios definitivamente
+
+git log: nos permite ver todos los cambios que hemos hecho
+
+git log --online: nos permite ver todos los cambios que hemos hecho en forma abreviada
+git log --oneline --since='5 minutes ago': ver cambios desde
+git log --oneline --until='5 minutes ago': ver cambio hasta
+git log --oneline --author=sergio :ver cambios de un autor en especifico
+git log --oneline --all : ver todos los cambios
