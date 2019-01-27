@@ -13,3 +13,6 @@ git log --oneline --since='5 minutes ago': ver cambios desde
 git log --oneline --until='5 minutes ago': ver cambio hasta
 git log --oneline --author=sergio :ver cambios de un autor en especifico
 git log --oneline --all : ver todos los cambios
+
+
+sdcsdscd
